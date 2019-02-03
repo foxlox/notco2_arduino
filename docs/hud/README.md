@@ -50,7 +50,7 @@ m. Sensor connector by dynament about 5 Euro
 
 	product code P/PCB
 
-n. nr 1 eigth led module about 2 Euro
+n. nr 1 eight led module about 2 Euro
 
 	https://www.banggood.com/it/Duinopeak-8-Bit-WS2812-5050-RGB-LED-Smart-Full-Color-LED-Display-Module-Board-For-Arduino-p-1329241.html?gmcCountry=IT&currency=EUR&createTmp=1&utm_source=googleshopping&utm_medium=cpc_bgs&utm_content=frank&utm_campaign=pla-it-css-ele-mob-pc&cur_warehouse=CN
 
