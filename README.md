@@ -2,7 +2,7 @@ NotCO2 - A Co2 analyzer for rebreathers
 =======================================
 fortunato lodari - fox@thebrain.net
 
-Project borns in 2011 by a personal exigency, I'm a mathematical, then I can't leave an independent variable to change my life for a sport.
+Project borns in 2011 by a personal need, I'm a mathematical, then I can't leave an independent variable to change my life for a sport.
 This independent variable is Carbon Dioxide, CO2. Then I decided to begin a new project to analyze my breathe underwater.
 
 Till today, me and other many peoples are using it with satisfaction by over 6 years.
