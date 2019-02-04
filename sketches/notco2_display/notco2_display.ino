@@ -107,7 +107,7 @@ void setup()
   Serial.print("INIT");
   digitalWrite(buzzerPin, HIGH);
   Wire.begin();
-  splash();
+  splash(); //sensor needs about 60 seconds to boot, then we can take time with some funny
   K_30_Serial.begin(38400);    //Opens the virtual serial port with a baud of 38400
 
   Kwrite(readCO2);

@@ -356,7 +356,7 @@ void stampanum(char c[11])
 
 //////////iniled
 
-if (uptime>30)
+if (uptime>30) //time for sensor to boot
 {
   int led = pco2*100  ;
   Serial.print("led: ");
