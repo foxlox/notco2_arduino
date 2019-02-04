@@ -26,7 +26,7 @@
 #include "SoftwareSerial.h"
 #include "FastLED.h"
 #define NUM_LEDS 8
-#define DATA_PIN 11
+#define DATA_PIN 12
 CRGB leds[NUM_LEDS];
 
 #include <SPI.h>
