@@ -2,6 +2,13 @@ NotCO2 - A Co2 analyzer for rebreathers
 =======================================
 fortunato lodari - fox@thebrain.net
 
+If you wish to write to me by email, user the tag [NOTCO2] (with brackets)
+in your subject
+
+Please read all DOCs carefully
+
+
+
 Project borns in 2011 by a personal need, I'm a mathematical, then I can't leave an independent variable to change my life for a sport.
 This independent variable is Carbon Dioxide, CO2. Then I decided to begin a new project to analyze my breathe underwater.
 
