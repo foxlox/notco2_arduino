@@ -68,7 +68,7 @@ Kwrite(readCO2);
 }
 
 
-float co2perc,tcoC, pressure, atm, tcoI, signal,oldpco2,oldsignal,oldtco,oldtcoI, oldatm, voltage, oldvoltage;
+float co2perc,tcoC, pressure, atm, tcoI, signal, voltage;
 long uptime=0,olduptime=0;
 
 
@@ -443,17 +443,10 @@ if (pco2>=0.50)
  }
 
 
-oldtco=tco.f;
-oldpco2=pco2;
-
-    if (tco.f>0.25)
-     digitalWrite(buzzerPin,HIGH);
-    else
-     digitalWrite(buzzerPin,LOW);
-
-olduptime=uptime;
-oldtcoI=tcoI;
-oldvoltage=voltage;
+ if (tco.f>0.25)
+  digitalWrite(buzzerPin,HIGH);
+ else
+  digitalWrite(buzzerPin,LOW);
 
   Serial.print ("valore CO2: ");
   if ((max<tco.f)&&(tco.f<3))
