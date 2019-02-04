@@ -42,7 +42,7 @@ f. some pics
 About CO2 Sensor: I cannot include device's interface specification without owner authorization, but you could try to ask
 them: Dynament Ltd - www.dynament.com
 
-				  It doesn't suffer with moisture, it's important to stay face down in the loop, and to be dry after diving.
+  The sensor doesn't suffer with moisture, it's important to stay face down in the loop, and to be dry after diving.
 				  
 
 Please, read ALL documents in each folder.
