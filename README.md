@@ -2,7 +2,7 @@ NotCO2 - A Co2 analyzer for rebreathers
 =======================================
 fortunato lodari - fox@thebrain.net
 
-If you wish to write to me by email, user the tag [NOTCO2] (with brackets)
+If you wish to write me by email, please use the tag [NOTCO2] (with brackets)
 in your subject
 
 Please read all DOCs carefully
