@@ -270,8 +270,8 @@ void loop()
            //fine while cerca EOF
            a=K_30_Serial.read();
            int crc=K_30_Serial.read();
-           }           
-          }
+        }           
+      }
 }
 
 float prendi4()
