@@ -17,8 +17,8 @@ The sensor is working good for an average life of 5 years.
 
 I received a lot of offers for my project, but I wish to share this with other peoples who want to hack.
 
-Please do not criticize the source code, I'm really (but really!) much professional and tidier
-than you would consider me looking at it. It was born to hack, and then when it was working 100% I left it as it is.
+Please do not be surprised reading the source code, I'm really (but really!) much more professional and tidy
+than you consider me to look at it, it's really simple. It was born to hack, and then when it worked 100% I left it as it is.
 
 It bores me to refine it and I'll not do it just now
 that I want to share it ;-)
