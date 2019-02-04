@@ -23,10 +23,10 @@
  /****************************************************
   NOTE ON DISPLAY
   This display has a particularity, when you write a char and then another in the same
-  location, the previous one does not cancel, so you do not read well. The software overwrites
-  the char of the previous output using the black color to delete it.
+  location, the previous one does not disappear, so you do not read it well. The software overwrites
+  the char of the previous output using the black color to delete it, instead to do a CLEAR().
   Ex: Background black, write a green A in (0,0), and to delete it write a black A in (0,0)
-  before to write new char
+      before to write a new char
  ****************************************************/
 
 
