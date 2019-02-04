@@ -317,9 +317,9 @@ long prendi2()
     a=K_30_Serial.read();
    dtrh[0+st] = (a >> 4) + 0x30;
    if (dtrh[0+st] > 0x39) dtrh[0+st] +=7;
-    dtrh[1+st] = (a & 0x0f) + 0x30;
+   dtrh[1+st] = (a & 0x0f) + 0x30;
    if (dtrh[1+st] > 0x39) dtrh[1+st] +=7;
-    st+=2;
+   st+=2;
   }
  char a2[10];
  a2[0]='0'; a2[1]='x'; a2[6]=dtrh[2]; a2[7]=dtrh[3]; a2[8]=dtrh[0]; a2[9]=dtrh[1]; a2[2]='0'; a2[3]='0'; a2[4]='0'; a2[5]='0';
