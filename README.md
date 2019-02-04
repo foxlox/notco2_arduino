@@ -50,3 +50,28 @@ Please, read ALL documents in each folder.
 
 The Author is not responsible for damage to peoples that use this project.
 It works perfectly but you must build it perfectly too.
+
+Special thanks to:
+
+Gabriele Paparo for hints, support and test
+
+Martin Tolksdorf for enclosure and wrist project
+
+Domenico Tripodi for support and experience during  diving tests
+
+Saverio Rotella for HUD testing
+
+Massimilaino Salvatori for hints
+
+Sebastiano Pappalardo and Paolo Li Pera of Grade Equipments for HUD project
+
+Gian Ameri for hints and support
+
+Laszlo Mocsari for tests insp/exp
+
+Aldo Ferrucci for support
+
+Franco Amadeo for diving support
+
+My wonderful wife Mara for everything!
+
