@@ -63,11 +63,9 @@ Saverio Rotella for HUD testing
 
 Massimilaino Salvatori for hints
 
-Sebastiano Pappalardo and Paolo Li Pera of Grade Equipments for HUD project
+Sebastiano Pappalardo and Paolo Li Pera of Grade Equipments for HUD, wrist console and sensors enclosures
 
 Gian Ameri for hints and support
-
-Laszlo Mocsari for tests insp/exp
 
 Aldo Ferrucci for support
 
